@@ -30,5 +30,12 @@
     "FileReader": true,
     "navigator": true,
     "fetch": true
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".ts", ".tsx"]
+      }
+    }
   }
 }

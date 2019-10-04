@@ -3,9 +3,9 @@
     "outDir": "./dist/",
     "sourceMap": true,
     "noImplicitAny": true,
-    "module": "commonjs",
+    "module": "es6",
     "lib": ["es2015", "dom", "dom.iterable"],
-    "target": "es5",
+    "target": "es2015",
     "jsx": "react"
   }
 }
